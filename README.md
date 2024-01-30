@@ -2,7 +2,7 @@
 - 👀 I’m interested in programming!
 - 🌱 I’m currently learning python, c#, js, c++, html, css!
 - 💞️ I’m looking to collaborate on JustCreations!
-- 📫 How to reach me: just_creations@mail.ru!
+- 📫 How to reach me: forgenet@inbox.ru!
 
 <!---
 F0rgenet/F0rgenet is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
